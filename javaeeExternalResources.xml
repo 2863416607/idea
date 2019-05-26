@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cxf.apache.org/jaxrs" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/57dc4f64_jaxrs.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/5b196030_cxf-beans.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxrs-common.xsd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/69f6308a_jaxrs-common.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/334543e7_spring-beans.xsd" />
+  </component>
+</application>

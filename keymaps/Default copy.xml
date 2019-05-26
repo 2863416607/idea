@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Revert" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  </action>
+  <action id="Vcs.RollbackChangedLines" />
+</keymap>

@@ -42,6 +42,10 @@
           <option name="url" value="https://gitee.com/wi1dcard/kuaidi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/YunaiV/eureka.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />

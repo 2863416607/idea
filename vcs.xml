@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/spring-projects/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/2863416607/spring-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />

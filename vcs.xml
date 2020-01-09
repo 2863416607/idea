@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/2863416607/canal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/huixi_and_their_friends/weiju.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />

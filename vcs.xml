@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/YunaiV/SpringBoot-Labs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/haoxiaoyong1014/springboot-quartz.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />

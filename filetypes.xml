@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping pattern="applicationContext-dao" type="XML" />
     </extensionMap>
   </component>
